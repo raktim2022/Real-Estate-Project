@@ -7,7 +7,7 @@ export default function header() {
           <div className="p-3 flex justify-between items-center max-w-6xl mx-auto">
               <Link to='/'>
                 <h1 className="font-bold text-sm sm:text-xl flex flex-wrap">
-                <span className="text-slate-500 text-[30px]">R&C </span>
+                <span className="text-slate-500 text-[30px]">R&B </span>
                 <span className="text-slate-800 px-2">Real Estate</span>
             </h1></Link>
             <form className="bg-slate-100 p-3 rounded-lg flex items-center">
